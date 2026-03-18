@@ -16,3 +16,5 @@ __pycache__/
 # 4. Environment variables (security)
 .env
 
+.flow
+

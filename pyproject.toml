@@ -13,3 +13,7 @@ dependencies = [
 
 [project.scripts]
 mxcalc = "mxcalc.main:main" # Optional: Creates a CLI command
+
+[project.urls]
+"Homepage" = "https://github.com/dkrnr/mxcalc"
+"Bug Tracker" = "https://github.com/dkrnr/mxcalc/issues"
