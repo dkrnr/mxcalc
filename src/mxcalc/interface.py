@@ -47,7 +47,7 @@ def getMatrix(rows,columns):
                 return -1
     return matrix
 
-def displayMatrix(matrix,isFinal):
+def displayMatrix(matrix,isFinal=False):
     """
     This is a function to display the given matrix
 
